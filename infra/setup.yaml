@@ -16,7 +16,7 @@ metadata:
 spec:
   path: ./terraform
   # path: ./base
-  approvePlan: ""
+  approvePlan: "plan-main-f8b3809549"
   interval: 1m
   sourceRef:
     kind: GitRepository
