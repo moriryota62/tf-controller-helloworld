@@ -14,7 +14,8 @@ kind: Terraform
 metadata:
   name: helloworld-tf
 spec:
-  path: ./terraform
+  # path: ./terraform
+  path: ./base
   approvePlan: ""
   interval: 1m
   sourceRef:
