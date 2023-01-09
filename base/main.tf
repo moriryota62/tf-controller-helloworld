@@ -4,7 +4,7 @@ terraform {
 
 variable "subject" {
    type = string
-   default = "tfctl-rc kokoko"
+   default = "tfctl-rc jojojoj"
    description = "Subject to hello YOYOYo"
 }
 
