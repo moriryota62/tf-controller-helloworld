@@ -16,7 +16,7 @@ metadata:
 spec:
   # path: ./terraform
   path: ./base
-  approvePlan: ""
+  approvePlan: "auto"
   interval: 1m
   sourceRef:
     kind: GitRepository
