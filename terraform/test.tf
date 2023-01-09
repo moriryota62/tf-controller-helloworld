@@ -9,5 +9,5 @@ variable "sub" {
 }
 
 output "test" {
-  value = "ho ho ho , ${var.subject}!"
+  value = "ho ho ho , ${var.sub}!"
 }
